@@ -1,0 +1,2 @@
+# set_ominous_bottle_amplifier
+item_modifierの1項目であるset_ominous_bottle_amplifierのサンプルになります。
